@@ -1,0 +1,52 @@
+{
+  "schema": "holo-compiler-lockfile-v1",
+  "abiMagic": "0x33564742",
+  "casLayout": "v11",
+  "repo": "awesome-os/wry",
+  "targets": [
+    "win64",
+    "linux-x64",
+    "linux-arm64",
+    "macos-arm64",
+    "wasm32-wasi"
+  ],
+  "generatedAt": "2026-11-24T23:53:02.473Z",
+  "dependencies": [
+    {
+      "id": "awesome-os/wry/SHA256SUMS.txt",
+      "kind": "object",
+      "version": "v0.1.1",
+      "target": "any",
+      "sha512": "4993bd303dcfb197c6a7a3d6359a084b808ed0f544c0feaf8e12ebd7cfe05eef0eb1c0fa7d3eb52c405f324a730e6f587386433b4379ef0c7342c3997720c20f",
+      "size": 85,
+      "executable": false,
+      "blob": "v11/files/49/4993bd303dcfb197c6a7a3d6359a084b808ed0f544c0feaf8e12ebd7cfe05eef0eb1c0fa7d3eb52c405f324a730e6f587386433b4379ef0c7342c3997720c20f",
+      "url": "https://github.com/awesome-os/wry/releases/download/v0.1.1/SHA256SUMS.txt",
+      "dependencies": []
+    },
+    {
+      "id": "awesome-os/wry/SHA512SUMS.txt",
+      "kind": "object",
+      "version": "v0.1.1",
+      "target": "any",
+      "sha512": "d6d67c29cf86dfa5694a5451822ffbbc70ec4b3bad514f343379d502dd60f200e1f29374896c365f02045bed963770b85fecee008f4e0384412ee95605c6dc9a",
+      "size": 149,
+      "executable": false,
+      "blob": "v11/files/d6/d6d67c29cf86dfa5694a5451822ffbbc70ec4b3bad514f343379d502dd60f200e1f29374896c365f02045bed963770b85fecee008f4e0384412ee95605c6dc9a",
+      "url": "https://github.com/awesome-os/wry/releases/download/v0.1.1/SHA512SUMS.txt",
+      "dependencies": []
+    },
+    {
+      "id": "awesome-os/wry/wry-v0.1.1.tar.zst",
+      "kind": "object",
+      "version": "v0.1.1",
+      "target": "any",
+      "sha512": "d5cd608e0a503c23bf1e0e723c7f960cea332b522b566237a63917a40d2c76eeec9196bc84586b3190bfbd8342f6d0f9caae45b4fce35487ab7d2a86adc01f3b",
+      "size": 2244337,
+      "executable": false,
+      "blob": "v11/files/d5/d5cd608e0a503c23bf1e0e723c7f960cea332b522b566237a63917a40d2c76eeec9196bc84586b3190bfbd8342f6d0f9caae45b4fce35487ab7d2a86adc01f3b",
+      "url": "https://github.com/awesome-os/wry/releases/download/v0.1.1/wry-v0.1.1.tar.zst",
+      "dependencies": []
+    }
+  ]
+}
